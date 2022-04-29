@@ -39,8 +39,8 @@
          "All inboxes" ?i)))
 
 ;; SMTP
-(setq user-full-name "刘向")
-(setq user-mail-address "liuxiang@ktjr.com")
+(setq user-full-name "周新宇")
+(setq user-mail-address "zhouxinyu@ktjr.com")
 (setq send-mail-function 'smtpmail-send-it)
 (setq smtpmail-stream-type 'ssl)
 (setq smtpmail-smtp-server "smtp.exmail.qq.com")
